@@ -51,7 +51,7 @@ and chronic disease management.
 - [User Manual](docs/user-manual.md)
 
  Demo
+
 [Link to demo video - to be added]
 
- License
-Educational project for NIBM coursework
+
